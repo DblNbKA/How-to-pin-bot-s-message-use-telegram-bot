@@ -2,4 +2,4 @@
 Pin bot`s message use telegram bot
 This part of the code that allows the bot to pin its message for itself and the user of the telegram bot in python
 
-If you want to contact me and discuss the code, then write in telegram https://t.me/DblNY
+If you want to contact with me and discuss the code, then write in telegram https://t.me/DblNY
